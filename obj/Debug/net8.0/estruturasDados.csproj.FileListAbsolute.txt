@@ -1,0 +1,15 @@
+/workspaces/estruturasDados/bin/Debug/net8.0/estruturasDados
+/workspaces/estruturasDados/bin/Debug/net8.0/estruturasDados.deps.json
+/workspaces/estruturasDados/bin/Debug/net8.0/estruturasDados.runtimeconfig.json
+/workspaces/estruturasDados/bin/Debug/net8.0/estruturasDados.dll
+/workspaces/estruturasDados/bin/Debug/net8.0/estruturasDados.pdb
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.AssemblyInfoInputs.cache
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.AssemblyInfo.cs
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.csproj.CoreCompileInputs.cache
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.sourcelink.json
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.dll
+/workspaces/estruturasDados/obj/Debug/net8.0/refint/estruturasDados.dll
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.pdb
+/workspaces/estruturasDados/obj/Debug/net8.0/estruturasDados.genruntimeconfig.cache
+/workspaces/estruturasDados/obj/Debug/net8.0/ref/estruturasDados.dll
